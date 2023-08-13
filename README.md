@@ -20,3 +20,7 @@ Diagnosing Alzheimer’s disease from on-line handwriting: A novel dataset and p
 By Nicole D. Cilia, Giuseppe De Gregorio , Claudio De Stefano, Francesco Fontanella, Angelo Marcelli, Antonio Parziale . 2022
 
 Published in Journal
+
+# Dataset Creators
+Francesco Fontanella
+fontanella@unicas.it
